@@ -1,3 +1,9 @@
+% Each row has seven entries. The first three entries are Cartesian 
+% coordinates (x,y,z) in a coordinate system where the sun is at the 
+% origin and the galactic plane is z=0. Subsequent entries are the 
+% star's name, radius (in units of the radius of the sun), effective 
+% temperature (Kelvin), and spectral class.
+
 0,0,0,"Sun",1,5772.,"G2V"
 2.9442481260020283,-3.019826879368229,-0.16931704967025207,"Proxima Centauri",0.27,3.2e3,"M5Ve"
 3.163573268284198,-3.04661925441702,-0.081719788159023,"Rigel Kentaurus A",1.,5.8e3,"G2V"
