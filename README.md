@@ -8,4 +8,5 @@ Plotting the positions of nearby stars using Mathematica.
 * Add distance labels (8ly, 16ly, etc) to the contours on the disk of the galactic plane
 * Style tooltips and add more info
 * What else?
+
 ![The 1,000 stars nearest to the sun.](https://github.com/mcnees/Solar-Neighborhood/blob/master/1000neareststars.png)
